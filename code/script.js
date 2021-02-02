@@ -10,6 +10,7 @@ const inputWrapper = document.getElementById('input-wrapper');
 // Global variables, if you need any, declared here
 
 var dish;
+var fill;
 
 
 // Functions declared here
@@ -123,7 +124,7 @@ const showMenu = (dish) => {
 const sideDish = (fill) => {
   botReply(`You have ordered ${dish} with ${fill}. 
   Please choose your favourite side dish.`)
-  window.dish = `${fill}`
+  window.fill = `${fill}`
 
 }
 
