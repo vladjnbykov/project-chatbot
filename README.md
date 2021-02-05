@@ -1,6 +1,7 @@
 # Chat bot
-
-A Harry Potter burger chat bot. Here you can order your magic burger with sides, filling and drinks. You have several options for delivery.
+This is a team project created in the framework of Technigo front-end development bootcamp. The team members are Sara Carlstein, Nazanin Adampira and me, Vladimir Bykov.
+ 
+We have created: Harry Potter burger chat bot. Here you can order your magic burger with sides, filling and drinks. You have several options for delivery.
 
 
 ## The problem
